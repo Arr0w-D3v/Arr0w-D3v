@@ -1,64 +1,144 @@
-# Hey, I'm Mike 👋
+<div align="center">
 
-**Michael Pollet** — CEO & Founder of [Arrow IT SRL](https://arrow-it.be)  
-Full-Stack Developer • Trainer • AI Enthusiast
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mike%20Pollet&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CEO%20@%20Arrow%20IT%20SRL%20•%20Full-Stack%20Developer%20•%20AI%20Enthusiast&descSize=18&descAlignY=52" width="100%"/>
 
-I build modern web & mobile applications and integrate AI into real-world solutions.
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+%26+Mobile+Apps;Integrating+AI+into+Real+Solutions;Laravel+%7C+React+%7C+React+Native;Trainer+%26+Tech+Entrepreneur" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 🚀 What I Do
-
-- 🏗️ **Full-Stack Development** — Laravel APIs, React/Next.js frontends, React Native mobile apps
-- 🤖 **AI Integration** — Bringing intelligence into modern applications
-- 🎓 **Training** — Helping developers level up their skills
-- ☁️ **DevOps** — Docker, CI/CD, cloud deployments
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Arr0w-D3v&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arr0w-D3v&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
+<!-- Social Badges -->
 <p>
   <a href="https://arrow-it.be">
-    <img src="https://img.shields.io/badge/Website-arrow--it.be-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Arrow_IT-arrow--it.be-6366F1?style=for-the-badge&labelColor=1e1e2e" />
   </a>
   <a href="mailto:contact@arrow-it.be">
-    <img src="https://img.shields.io/badge/Email-contact@arrow--it.be-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_Email-contact@arrow--it.be-ec4899?style=for-the-badge&labelColor=1e1e2e" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Arr0w-D3v&style=for-the-badge&color=6366F1&labelColor=1e1e2e" />
 </p>
 
----
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arr0w-D3v&color=blueviolet&style=flat-square" alt="Profile views" />
+<!-- About Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
+
+```javascript
+const mike = {
+    company: "Arrow IT SRL",
+    role: ["CEO", "Full-Stack Developer", "Trainer"],
+    location: "Belgium 🇧🇪",
+    currentFocus: "Building SaaS platforms & integrating AI",
+    funFact: "I turn coffee into code ☕ → 💻"
+};
+```
+
+<br/>
+
+<!-- Tech Stack -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript&theme=dark" />
 </p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql&theme=dark" />
+</p>
+
+### 📱 Mobile & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=react,docker,github,linux&theme=dark" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arr0w-D3v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arr0w-D3v&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=ec4899&currStreakLabel=6366F1" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arr0w-D3v&bg_color=0d1117&color=6366F1&line=ec4899&point=ffffff&area=true&hide_border=true" width="98%"/>
+</div>
+
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arr0w-D3v&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" width="98%" />
+</div>
+
+<br/>
+
+<!-- What I Do -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Development
+- Full-Stack Web Applications
+- Mobile Apps (React Native/Expo)
+- SaaS Platforms & APIs
+- E-commerce Solutions
+
+</td>
+<td width="50%">
+
+### 🤖 Innovation
+- AI Integration in Apps
+- Modern UI/UX Design
+- DevOps & Cloud Deployment
+- Tech Training & Mentoring
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+  
+  <br/><br/>
+  
+  **💼 Open for collaborations and exciting projects!**
+  
+  <br/>
+  
+  <a href="https://arrow-it.be">
+    <img src="https://img.shields.io/badge/Let's_Work_Together-6366F1?style=for-the-badge&logo=handshake&logoColor=white" />
+  </a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
